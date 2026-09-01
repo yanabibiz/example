@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="stepanova-project/stepanova-project.vcxproj" Id="949930a6-49fe-4559-9121-785f31e17a5c" />
+</Solution>
